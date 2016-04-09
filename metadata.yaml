@@ -1,0 +1,38 @@
+_repo: Peter-Pan-in-Kensington-Gardens_26998
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rackham, Arthur
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '6335'
+    url: http://www.gutenberg.org/2009/agents/6335
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Rackham
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peter Pan (Fictitious character) -- Fiction'
+- !lcsh 'Fantasy'
+- !lcsh 'Kensington Gardens (London, England) -- Fiction'
+- !lcsh 'Fairies -- Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+title: Peter Pan in Kensington Gardens
+url: http://www.gutenberg.org/ebooks/26998
